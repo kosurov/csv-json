@@ -1,0 +1,12 @@
+# Системные
+Thumbs.db
+
+# Intellij
+.idea/
+
+# Maven
+target/
+
+# Файлы вывода
+data.json
+data2.json
